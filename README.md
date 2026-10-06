@@ -30,8 +30,9 @@ O projeto foi desenvolvido com foco na prática de lógica de programação, est
 ## Estrutura do projeto
 
 ```text
-sistema_de_estoque_em_C/
+sistema-de-estoque-em-c/
 ├── .gitignore
+├── LICENSE
 ├── README.md
 └── src/
     ├── main.c
