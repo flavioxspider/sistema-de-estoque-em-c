@@ -1,0 +1,21 @@
+# Arquivos gerados pela compilacao
+*.exe
+*.out
+*.o
+
+# Arquivo de dados gerado pelo programa
+*.bin
+*.dat
+
+# Arquivos especificos do Dev-C++
+*.layout
+*.depend
+Makefile.win
+
+# Arquivos temporarios
+*.tmp
+*.bak
+
+# Configuracoes de IDE
+.vscode/
+.idea/
